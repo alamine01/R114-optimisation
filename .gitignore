@@ -1,0 +1,15 @@
+# Fichiers sensibles à ne pas partager
+# Ajoutez ici les fichiers/dossiers que vous ne voulez pas rendre publics
+
+# Exemples courants :
+# .env
+# config/secrets.js
+# node_modules/
+# *.log
+# .DS_Store
+
+# Si vous voulez cacher des fichiers spécifiques de votre projet :
+# nom-fichier-sensible.txt
+# dossier-prive/
+
+
